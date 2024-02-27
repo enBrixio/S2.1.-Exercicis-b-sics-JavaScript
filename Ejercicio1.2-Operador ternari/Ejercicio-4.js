@@ -7,7 +7,7 @@ const parOImpar = (miArray) => {
         let valor = miArray[i]
         let ternario = (valor % 2 === 0 ) ? 'es par' : 'es impar'
         console.log(`${valor} ${ternario}`);
-     }
+    }
 }
 
 parOImpar(misNumeros)
