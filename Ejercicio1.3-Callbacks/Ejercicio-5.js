@@ -7,3 +7,7 @@ const mostrarCadena = (cadena) => {
 }
 
 processarCadena("Hola como estas", mostrarCadena);
+
+
+
+
